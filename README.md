@@ -25,5 +25,5 @@ Please send your submission to Alix Booth (alix.l.booth@boeing.com) by the agree
 
 
 ## The Solution:
-The solution is available in the link below:
-[link to P2 DataEngineering_Code_Challenge Solution]
+The solution is available in the link below: <br>
+[P2 DataEngineering_Code_Challenge Solution](https://github.com/jubertroldan/P2_DataEngineering_Code_Challenge/blob/master/P2%20Data%20Engineering%20Code%20Challenge%20Solution.ipynb)
