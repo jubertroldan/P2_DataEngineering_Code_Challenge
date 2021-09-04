@@ -1,5 +1,5 @@
 # P2_DataEngineering_Code_Challenge
-This repository is in relation to a pre-Interview requirements
+This repository is in relation to pre-interview assessment
 to solve the problem and showcase the basic skills from candidate.
 
 
